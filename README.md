@@ -1,2 +1,0 @@
-# OPNW
-OnePromptNovelWriter
